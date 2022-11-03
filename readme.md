@@ -10,4 +10,16 @@
 | **Effective tax rate** | **34.14%** | |
 | **Net profit** | | **31610.92 EUR** |
 
+## Lithuania - 2022
+
+| Annual Profit |  | 48000.00 EUR |
+| :--- | :---: | ---: |
+| PIT. With the fixed 30% expenses method the taxable profit is 70%  - 33600 EUR | 15.00% | 5040.00 EUR |
+| Social insurance contributions from 90% of the taxable profit  - 30240 EUR | 12.52%[^2] | 3786.05 EUR |
+| Health insurance contributions from 90% of the taxable profit  - 30240 EUR | 6.98%[^3] | 2110.75 EUR |
+| **Effective tax rate** | **22.79%** | |
+| **Net profit** | | **37063.20 EUR** |
+
 [^1]: Used to be 5% before 01.07.2021, 10% - since then.
+[^2]: Can be 0% for the first year of business activity.
+[^3]: Can be about 2% for the first year of business activity.
