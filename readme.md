@@ -31,7 +31,22 @@
 | **Effective tax rate** | **11.92%** | |
 | **Net profit** | | **42280.80 EUR** |
 
+## Slovenia - 2022
+
+| Annual Profit |  | 48000.00 EUR |
+| :--- | :---: | ---: |
+| PIT. With the fixed 80%[^5] expenses method the taxable profit is 20%  - 9600 EUR | 20.00% | 1920.00 EUR |
+| Insurance base is 60% of the average national yearly salary |  | 12627.84 EUR |
+| Pension and disability contributions | 24.35%[^6] | 3074.88 EUR |
+| Health insurance contributions | 13.45% | 1698.48 EUR |
+| Parental protection contributions | 0.20% | 25.20 EUR |
+| Employment insurance contributions | 0.20% | 25.20 EUR |
+| **Effective tax rate** | **14.05%** | |
+| **Net profit** | | **41256.24 EUR** |
+
 [^1]: Used to be 5% before 01.07.2021, 10% - since then.
 [^2]: Can be 0% for the first year of business activity.
 [^3]: Can be about 2% for the first year of business activity.
 [^4]: Applied only up to 2000000 CZK annualy, meaning that an expense allowance can't be higher than 1200000 CZK.
+[^5]: The upper limit for this regime is the annual profit of 50000 EUR.
+[^6]: You pay 50% less for the first year and 30% less for the second year of business activity.
