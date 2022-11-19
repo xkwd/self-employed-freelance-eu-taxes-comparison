@@ -20,6 +20,16 @@
 | **Effective tax rate** | **22.79%** | |
 | **Net profit** | | **37063.20 EUR** |
 
+## Poland - 2022
+
+| Annual Profit |  | 48000.00 EUR |
+| :--- | :---: | ---: |
+| The lump sum PIT for self employed developers | 12.00% | 5769.00 EUR |
+| Fixed social and employment insurance contributions for annual income < 63000 EUR  | - | 2870.37 EUR |
+| Fixed health insurance contributions for annual income < 63000 EUR | - | 1429.51 EUR |
+| **Effective tax rate** | **20.98%** | |
+| **Net profit** | | **37931.12 EUR** |
+
 ## Czech Republic - 2022
 
 | Annual Profit |  | 48000.00 EUR |
